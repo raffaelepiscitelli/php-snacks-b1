@@ -19,3 +19,6 @@
    ON `courses`.`degree_id` = `teachers`.`id`
    WHERE `teachers`.`name`= 'Fulvio'
    AND `teachers`.`surname`= 'Amato';
+
+5. SELECT *
+   
